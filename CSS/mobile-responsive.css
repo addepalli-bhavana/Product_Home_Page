@@ -1,0 +1,90 @@
+@media screen and (max-width: 550px) {
+  .nav-items {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+    font-size: 30px;
+  }
+  body,
+  html {
+    overflow-x: hidden;
+  }
+  nav {
+    height: 10vh;
+    padding: 0px 15px;
+  }
+  nav img:last-child {
+    display: none;
+  }
+  nav img:first-child {
+    height: 45px;
+  }
+  .main-section {
+    flex-direction: column-reverse;
+  }
+  .left-section {
+    width: unset;
+    padding: 30px 20px;
+    padding-top: 20px;
+  }
+  .right-section {
+    width: unset;
+    padding: 0px;
+    height: 62vh;
+  }
+  .left-section h3 {
+    font-size: 30px;
+  }
+  .left-section h1 {
+    font-size: 35px;
+  }
+  .sub-headline {
+    font-size: 20px;
+  }
+  .sub-headline {
+    font-size: 20px;
+  }
+  .left-section h5 img {
+    height: 25px;
+  }
+  .text {
+    text-align: justify;
+  }
+  h3,
+  h1,
+  .sub-headlines,
+  .text {
+    padding-bottom: 15px;
+  }
+  .sub-headlines .sub-headline {
+    padding-bottom: 5px;
+  }
+  .left-section .action-btn {
+    margin-right: 0px;
+  }
+  .action-btns {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 130px;
+  }
+  .dot {
+    height: 25px;
+    width: 25px;
+    margin: 0px 10px;
+  }
+  .left-section h3 img {
+    height: 35px;
+  }
+  .headphone-div img:last-child {
+    height: 45vh;
+  }
+  .headphone-div img:first-child {
+    top: 25vh;
+  }
+  .discount-content {
+    top: 29vh;
+  }
+}
