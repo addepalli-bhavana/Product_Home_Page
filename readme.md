@@ -6,8 +6,6 @@
 
 ### **🛠WHAT I HAVE LEARNT IN THIS PROJECT:** 
 - Media Queries
-- Screen Sizes for different devices
-- Using icons from Font Awesome Website
 - Positions(relative,absolute)
 - designing Buttons 
 - Padding
