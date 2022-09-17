@@ -3,8 +3,7 @@
   html {
     overflow-x: hidden;
   }
-  /* nav-bar */
-  .nav-items {
+ .nav-items {
     display: none;
   }
   .menu-icon {
@@ -21,11 +20,9 @@
   nav img:first-child {
     height: 45px;
   }
-  /* main-section */
   .main-section {
     flex-direction: column-reverse;
   }
-  /* left-section */
   .left-section {
     width: unset;
     padding: 30px 20px;
@@ -71,7 +68,6 @@
   .left-section h3 img {
     height: 35px;
   }
-  /* right-section */
   .right-section {
     width: unset;
     padding: 0px;
